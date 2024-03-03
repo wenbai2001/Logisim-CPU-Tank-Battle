@@ -1,2 +1,2 @@
-# Logisim-Tank-Battle
-Computer Organization Principles Team Assignment
+# Logisim-CPU & Logisim-Tank-Battle
+Computer Organization Principles experiments and team assignment
